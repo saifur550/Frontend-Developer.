@@ -85,7 +85,9 @@ body{
      ---- section style
 ============================ */
 
-.project__section{
+.project__section,
+.services__section
+{
      background: #e2edff;
 }
 
